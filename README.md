@@ -1,4 +1,6 @@
-# PythonForEverybodyGoals (high level intended outcomes; for software, a Product Backlog)
+# PythonForEverybody
+## Goals (high level intended outcomes; for software, a Product Backlog)
+**bold text1. First item Complete This Course and understand my FIRST coding language**
 Boundaries / Scope (where the functions and responsibilities of the solution start and end / what it should do and what is left to other systems to do)
 Success criteria (set of conditions to be satisfied at completion; must be measurable and verifiable, like a test)
 Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system)
