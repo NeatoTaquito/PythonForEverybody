@@ -24,6 +24,7 @@ Screenshots and work through IDLE or PyCharm are being uploaded periodically.
 </br>Chapter Three: Conditional Code (3 hours)
 I already had a good grasp on the initial intro for python from our activities in class; yet, the Hardware part of the copmuter's cPU, MOBO, etc. I had from tech field experience and current experience in the job I have now. I was also able to do the quiz, without essentially being able to submit it as I used the wonderful Snipping Tool I've been using since I started my tech carreer
 </br>Chapter Five: Loops and Iteration (3 hours)
+This week, besides the one we learned about input, has got to be the most important when it comes to me being able to use this information for my Integration Project. I honestly am having a good time going through and ensuring that I know what I'm doing and learning someting I thought I would NOT be able to do. Very very useful for making sure any invalid inputs 
 </br>Chapter Four: Functions (2 hours)
 </br>Chapter Seven: Files (3 hours)
 </br>Chapter Eight: Lists (3 hours)
