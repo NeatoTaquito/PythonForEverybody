@@ -26,10 +26,13 @@ I already had a good grasp on the initial intro for python from our activities i
 </br>Chapter Five: Loops and Iteration (3 hours)
 This week, besides the one we learned about input, has got to be the most important when it comes to me being able to use this information for my Integration Project. I honestly am having a good time going through and ensuring that I know what I'm doing and learning someting I thought I would NOT be able to do. Very very useful for making sure any invalid inputs 
 </br>Chapter Four: Functions (2 hours)
+Going through with my online course with Michigan and also in class work with my integration project, functions have been used to recall more than one program essentially within one file of code. I enjoy the void function myself, but you can make your function more intricate as time goes on and you experiment more with your files. My integration project has been added to have more than one game when you win or lose; for now, it's jsut a dice rolling game.
 </br>Chapter Seven: Files (3 hours)
 </br>Chapter Eight: Lists (3 hours)
 </br>Chapter Six: Strings (3 hours)
+Strings are actually touched upon on the earlier weeks; this week merely serving as review for the weeks we spent in class and outside with my integration project
 </br>Chapter Nine: Dictionaries (3 hours)
 </br>Chapter Ten: Tuples (2 hours)
 </br>Graduation and work on independent program (2 hours)
+I have been able to get my project done about halfway, only scoring 90's for the 2/3 entries needed for the course. I am determined to make the final one incredible enough to get the 100/100. That being said, I still enjoy doing my Choose your Own Adventure Game.
 </br>Complete independent program (2 hours)*
