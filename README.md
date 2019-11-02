@@ -29,6 +29,7 @@ This week, besides the one we learned about input, has got to be the most import
 Going through with my online course with Michigan and also in class work with my integration project, functions have been used to recall more than one program essentially within one file of code. I enjoy the void function myself, but you can make your function more intricate as time goes on and you experiment more with your files. My integration project has been added to have more than one game when you win or lose; for now, it's jsut a dice rolling game.
 </br>Chapter Seven: Files (3 hours)
 </br>Chapter Eight: Lists (3 hours)
+Lists help give a single variable multiple outputs within a print or "recall" option if it is in a function. With lists, you can navigate through which variable you want to get or print by giving a number, both positive and negative,after naming the variable in the print statement; this is called 'indexing'.For example, you could list a variable and want the 3rd outcome; it would look like "print(item[1])" and that would print out the SECOND variable since it always starts with 0.
 </br>Chapter Six: Strings (3 hours)
 Strings are actually touched upon on the earlier weeks; this week merely serving as review for the weeks we spent in class and outside with my integration project
 </br>Chapter Nine: Dictionaries (3 hours)
