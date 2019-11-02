@@ -33,6 +33,7 @@ Lists help give a single variable multiple outputs within a print or "recall" op
 </br>Chapter Six: Strings (3 hours)
 Strings are actually touched upon on the earlier weeks; this week merely serving as review for the weeks we spent in class and outside with my integration project
 </br>Chapter Nine: Dictionaries (3 hours)
+Dictionary in Python is an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair. Key value is provided in the dictionary to make it more optimized. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’.
 </br>Chapter Ten: Tuples (2 hours)
 </br>Graduation and work on independent program (2 hours)
 I have been able to get my project done about halfway, only scoring 90's for the 2/3 entries needed for the course. I am determined to make the final one incredible enough to get the 100/100. That being said, I still enjoy doing my Choose your Own Adventure Game.
